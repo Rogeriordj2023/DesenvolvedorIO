@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "IrDksgfEJ1NF9AGdrrfgKEG2NVDlPC/P1PDSwfFnWEpAo0X6QEgCyGUV5zDKFNP7opy/pK7/jiTro3Jv2RqSKw==",
+  "dgSpecHash": "NgTd5ydHshZs83Al9SXpTJ7m70TfshUwgmGtAxcg0jbYT9GzfZbXOmrqaMibw6F2DCAirO+t9KtNBWEe4IAx1Q==",
   "success": true,
   "projectFilePath": "C:\\DesenvolvedorIO\\APPVSCode\\APPVSCode.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

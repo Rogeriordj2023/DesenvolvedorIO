@@ -24,3 +24,4 @@ C:\DesenvolvedorIO\APPVSCode\obj\Debug\net6.0\refint\APPVSCode.dll
 C:\DesenvolvedorIO\APPVSCode\obj\Debug\net6.0\APPVSCode.pdb
 C:\DesenvolvedorIO\APPVSCode\obj\Debug\net6.0\APPVSCode.genruntimeconfig.cache
 C:\DesenvolvedorIO\APPVSCode\obj\Debug\net6.0\ref\APPVSCode.dll
+C:\DesenvolvedorIO\APPVSCode\bin\Debug\net6.0\appsettings.Staging.json
